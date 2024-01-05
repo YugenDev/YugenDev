@@ -15,11 +15,11 @@
 
 ## Experiencia Laboral
 
-- **Desarrollador Aprendíz | SURAMERICANA| DEC 16 2023 - DEC 16 2024**
+- **Desarrollador Aprendíz | SURA/SURAMERICANA | DEC 16 2023 - DEC 16 2024**
 
 ## Educación
 
-- ** Técnico Laboral como Asistente en Desarrollo de Software | CESDE **
+- ** Técnico Laboral como Asistente en Desarrollo de Software | CESDE | JUN 20 2023 - DEC 16 2024 **
 
 ## Objetivos Actuales
 
