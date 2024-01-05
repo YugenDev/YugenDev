@@ -1,12 +1,13 @@
 # ¡Aló! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy Juan Esteban, un desarrollador de software con enfoque en el backend, aunque también tengo competencias sólidas en el frontend con React. Actualmente, estoy explorando el mundo de la ciencia de datos aprendiendo Python para expandir mis habilidades.
+¡Bienvenido a mi perfil de GitHub! Soy Juan, un desarrollador de software con enfoque en el backend, aunque también tengo competencias sólidas en el frontend con React. Actualmente, estoy explorando el mundo de la ciencia de datos aprendiendo Python para expandir mis habilidades.
 
 ## Habilidades Técnicas
 
 - **Backend:** Java, Spring Boot.
 - **Frontend:** React
 - **Ciencia de Datos / Machine Learning:** Python (en proceso de aprendizaje).
+- **Inglés:** B2
 
 ## Proyecto Destacado
 
