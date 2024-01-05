@@ -1,4 +1,4 @@
-# ¡Hola! 👋
+# ¡Aló! 👋
 
 ¡Bienvenido a mi perfil de GitHub! Soy Juan Esteban, un desarrollador de software con enfoque en el backend, aunque también tengo competencias sólidas en el frontend con React. Actualmente, estoy explorando el mundo de la ciencia de datos aprendiendo Python para expandir mis habilidades.
 
@@ -10,7 +10,7 @@
 
 ## Proyecto Destacado
 
-- Black Mesa Bank(https://github.com/Pablo-Berrio/black_mesa): Plataforma bancaria con un chatbot impulsado por IA consumiendo GPT 3.
+- Black Mesa Bank (https://github.com/Pablo-Berrio/black_mesa) : Plataforma bancaria con un chatbot impulsado por IA consumiendo GPT 3.
 
 ## Experiencia Laboral
 
