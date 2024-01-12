@@ -19,7 +19,7 @@
 
 ## Educación
 
-- **Técnico Laboral como Asistente en Desarrollo de Software | CESDE | JUN 20 2023 - DEC 16 2024**
+- **Técnico en Desarrollo de Software | CESDE | JUN 20 2023 - DEC 16 2024**
 
 ## Objetivos Actuales
 
