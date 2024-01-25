@@ -6,6 +6,7 @@
 
 - **Backend:** Java, Spring Boot.
 - **Frontend:** React
+- **DevOps:** Azure DevOps
 - **Ciencia de Datos / Machine Learning:** Python (en proceso de aprendizaje).
 - **Inglés:** B2
 
@@ -15,7 +16,7 @@
 
 ## Experiencia Laboral
 
-- **Desarrollador Aprendíz | SURA/SURAMERICANA | DEC 16 2023 - DEC 16 2024**
+- **Desarrollador Aprendíz / Aprendíz CI/CD Azure DevOps | SURA/SURAMERICANA | DEC 16 2023 - DEC 16 2024**
 
 ## Educación
 
