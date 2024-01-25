@@ -6,7 +6,7 @@
 
 - **Backend:** Java, Spring Boot.
 - **Frontend:** React
-- **DevOps:** Azure DevOps
+- **DevOps:** Azure DevOps, Sonarqube, Jfrog Artifactorty.
 - **Ciencia de Datos / Machine Learning:** Python (en proceso de aprendizaje).
 - **Inglés:** B2
 
