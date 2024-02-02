@@ -5,14 +5,15 @@
 ## Habilidades Técnicas
 
 - **Backend:** Java, Spring Boot.
-- **Frontend:** React
+- **Frontend:** React.
 - **DevOps:** Azure DevOps, Sonarqube, Jfrog Artifactorty.
 - **Ciencia de Datos / Machine Learning:** Python (en proceso de aprendizaje).
-- **Inglés:** B2
+- **Inglés:** B2.
 
 ## Proyecto Destacado
 
-- Black Mesa Bank (https://github.com/Pablo-Berrio/black_mesa) : Plataforma bancaria con un chatbot impulsado por IA consumiendo GPT 3.
+- Black Mesa Bank: Plataforma bancaria con un chatbot impulsado por IA consumiendo la API de ChatGPT 3.
+- **https://github.com/Pablo-Berrio/black_mesa**
 
 ## Experiencia Laboral
 
