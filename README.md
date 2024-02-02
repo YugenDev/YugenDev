@@ -4,10 +4,11 @@
 
 ## Habilidades Técnicas
 
-- **Backend:** Java, Spring Boot.
-- **Frontend:** React.
+- **Backend:** Java/SpringBoot, Python/FastAPI/Django (en aprendizaje).
+- **Frontend:** React, HTML, CSS, JavScript.
 - **DevOps:** Azure DevOps, Sonarqube, Jfrog Artifactorty.
-- **Ciencia de Datos / Machine Learning:** Python (en proceso de aprendizaje).
+- **Cloud Computing:** Azure (en aprendizaje).
+- **Ciencia de Datos / Machine Learning:** Python (en aprendizaje).
 - **Inglés:** B2.
 
 ## Proyecto Destacado
@@ -17,12 +18,18 @@
 
 ## Experiencia Laboral
 
-- **Desarrollador Aprendíz / Aprendíz CI/CD Azure DevOps | SURA/SURAMERICANA | DEC 16 2023 - DEC 16 2024**
+- **Desarrollador Aprendíz / Aprendíz CI/CD DevOps | SURA/SURAMERICANA | DEC 16 2023 - DEC 16 2024**
 
 ## Educación
 
 - **Técnico en Desarrollo de Software | CESDE | JUN 20 2023 - DEC 16 2024**
 
+## Certificados
+
+- Platzi: https://drive.google.com/drive/folders/1EhuFzg3yRfQxxScxxTOZd5nn4nWdrM-O?usp=sharing
+
 ## Objetivos Actuales
 
-Actualmente, estoy enfocado en mejorar mis habilidades en Python para aplicaciones de ciencia de datos y machine learning. También estoy abierto a colaboraciones y contribuciones en proyectos interesantes.
+Actualmente estoy enfocado en mejorar mis habilidades en Python para construir APIs y aplicaciones de ciencia de datos y machine learning, tambien me interesa mucho el aprender sobre diversas herramientas de DevOps.
+
+estoy abierto a colaboraciones y contribuciones en proyectos interesantes ;))
