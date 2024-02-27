@@ -9,7 +9,7 @@
 - **DevOps:** Azure DevOps, Sonarqube, Jfrog Artifactorty.
 - **Cloud Computing:** Azure (en aprendizaje).
 - **Ciencia de Datos / Machine Learning:** Python (en aprendizaje).
-- **Version & Repo Control:** GIT <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="40"/>
+- **Version & Repo Control:** GIT <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="12" height="40"/>
 - **Inglés:** B2.
 
 ## Proyecto Destacado
