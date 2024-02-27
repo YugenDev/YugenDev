@@ -6,7 +6,7 @@
 
 - **Backend:** Java/SpringBoot, Python/FastAPI/Django (en aprendizaje).
 - **Frontend:** React, HTML, CSS, JavScript.
-- **DevOps:** Azure DevOps, Sonarqube, Jfrog Artifactorty. <a href="https://logowik.com/azure-pipelines-logo-vector-svg-pdf-ai-eps-cdr-free-download-16371.html"><img src="https://logowik.com/content/uploads/images/azure-pipelines8702.jpg"></a>
+- **DevOps:** Azure DevOps, Sonarqube, Jfrog Artifactorty. <img src="https://logowik.com/content/uploads/images/azure-pipelines8702.jpg" alt="pipelines" width="20" height="20"/>
 - **Cloud Computing:** Azure (en aprendizaje).
 - **Ciencia de Datos / Machine Learning:** Python (en aprendizaje).
 - **Version & Repo Control:** GIT <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
