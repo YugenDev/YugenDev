@@ -6,7 +6,7 @@
 
 - **Backend:** Java/SpringBoot, Python/FastAPI/Django (en aprendizaje).
 - **Frontend:** React, HTML, CSS, JavScript.
-- **DevOps:** Azure DevOps, Sonarqube, Jfrog Artifactorty. <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/services_devops_pipelines-icon-80?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&qlt=100&fit=constrain" alt="git" width="20" height="20"/>
+- **DevOps:** Azure DevOps, Sonarqube, Jfrog Artifactorty. <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/services_devops_pipelines-icon-80" alt="git" width="20" height="20"/>
 - **Cloud Computing:** Azure (en aprendizaje).
 - **Ciencia de Datos / Machine Learning:** Python (en aprendizaje).
 - **Version & Repo Control:** GIT <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
