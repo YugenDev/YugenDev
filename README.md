@@ -19,7 +19,9 @@
 
 ## Experiencia Laboral
 
-- **Desarrollador Aprendíz / Aprendíz CI/CD DevOps | SURA/SURAMERICANA | 1 AÑO (DEC 16 2023 - DEC 16 2024)**
+- **Desarrollador Aprendíz / Aprendíz CI/CD DevOps | SURA/SURAMERICANA | 1 AÑO (DEC 16 2023 - DEC 16 2024)**<img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-1_22.png?gp.a9L6VP3n7.103P9KmoSzWpwhgLU9B&itok=tOc5W1ni" alt="sura" width="20" height="20"/>
+
+  
 
 ## Educación
 
