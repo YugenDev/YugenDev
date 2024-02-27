@@ -4,7 +4,7 @@
 
 ## Habilidades Técnicas
 
-- **Backend:** Java/SpringBoot, Python/FastAPI/Django (en aprendizaje). <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spboot" width="65" height="35"/> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="py" width="20" height="20"/> <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="py" width="20" height="20"/> 
+- **Backend:** Java/SpringBoot, Python/FastAPI/Django (en aprendizaje). <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> <img src="https://icons8.com/icon/90519/spring-boot" alt="spboot" width="65" height="35"/> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="py" width="20" height="20"/> <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="py" width="20" height="20"/> 
 - **Frontend:** React, HTML, CSS, JavScript. <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="20" height="20"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="ht" width="20" height="20"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="20" height="20"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="js" width="20" height="20"/>
 - **DevOps:** Azure DevOps, Sonarqube, Jfrog Artifactorty. 
 - **Cloud Computing:** Azure (en aprendizaje).
