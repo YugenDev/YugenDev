@@ -4,7 +4,7 @@
 
 ## Habilidades Técnicas
 
-- **Backend:** Java/SpringBoot, Python/FastAPI/Django (en aprendizaje). <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+- **Backend:** Java/SpringBoot, Python/FastAPI/Django (en aprendizaje). <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/>
 - **Frontend:** React, HTML, CSS, JavScript.
 - **DevOps:** Azure DevOps, Sonarqube, Jfrog Artifactorty. <img src="https://logowik.com/content/uploads/images/azure-pipelines8702.jpg" alt="pipelines" width="20" height="20"/>
 - **Cloud Computing:** Azure (en aprendizaje).
