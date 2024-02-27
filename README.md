@@ -21,10 +21,6 @@
 
 - **Desarrollador Aprendíz / Aprendíz CI/CD DevOps | SURA/SURAMERICANA | 1 AÑO (DEC 16 2023 - DEC 16 2024)**
 
-<p> <img src="https://w7.pngwing.com/pngs/288/285/png-transparent-grupo-sura-insurance-agent-seguro-obligatorio-de-accidentes-personales-investment-sura-blue-text-investment-thumbnail.png" alt="sura" width="200" height="200"/> </p>
-
-  
-
 ## Educación
 
 - **Técnico en Desarrollo de Software | CESDE | JUN 20 2023 - DEC 16 2024**
