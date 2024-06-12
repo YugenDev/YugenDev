@@ -1,6 +1,6 @@
 # ¡Aló! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy Juan, un desarrollador de software con enfoque en el backend, aunque también tengo competencias sólidas en el frontend con React. Actualmente, estoy explorando el mundo de la ciencia de datos aprendiendo Python para expandir mis habilidades.
+¡Bienvenido a mi perfil de GitHub! Soy Juan, un desarrollador de software con enfoque en el backend, aunque también cuento con competencias sólidas en el frontend con React.
 
 ## Habilidades Técnicas
 
@@ -18,7 +18,7 @@
 
 ## Experiencia Laboral
 
-- **Desarrollador Aprendíz / Aprendíz CI/CD DevOps | SURA/SURAMERICANA | 1 AÑO (DEC 16 2023 - DEC 16 2024)**
+- **Desarrollador Aprendíz / Aprendíz DevOps | SURA/SURAMERICANA | 1 AÑO (DEC 16 2023 - DEC 16 2024)**
 
 ## Educación
 
@@ -30,6 +30,6 @@
 
 ## Objetivos Actuales
 
-Actualmente estoy enfocado en mejorar mis habilidades en Python para el desarrollo backend, también me interesa aprender Golang también con un enfoque al backend, aparte quiero expandir mi conocimiento en arquitectura DevOps.
+Actualmente estoy enfocado en mejorar mis habilidades en Python y Go para el desarrollo backend, también estoy expandiendo mi conocimiento en arquitectura DevOps.
 
 estoy abierto a colaboraciones y contribuciones en proyectos interesantes ;))
