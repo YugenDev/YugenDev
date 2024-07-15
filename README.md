@@ -1,6 +1,6 @@
 # ¡Aló! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy Juan, un desarrollador de software con enfoque en el backend, aunque también cuento con competencias sólidas en el frontend con React y Astro.
+¡Bienvenido a mi perfil de GitHub! Soy Juan, un desarrollador Junior con enfoque en el backend, aunque también cuento con competencias sólidas en el frontend con React y Astro.
 
 ## Mis Habilidades en Desarrollo de Software
 
