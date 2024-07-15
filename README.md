@@ -32,7 +32,7 @@
 
 ## Proyecto Destacado
 
-- Black Mesa Bank: Plataforma bancaria con un chatbot impulsado por IA consumiendo la API de ChatGPT 3.
+## Black Mesa Bank: Plataforma bancaria con un chatbot impulsado por IA.
 - **https://github.com/Pablo-Berrio/black_mesa**
 
 ## Experiencia Laboral
