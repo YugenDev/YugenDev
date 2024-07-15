@@ -1,15 +1,34 @@
 # ¡Aló! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy Juan, un desarrollador de software con enfoque en el backend, aunque también cuento con competencias sólidas en el frontend con React.
+¡Bienvenido a mi perfil de GitHub! Soy Juan, un desarrollador de software con enfoque en el backend, aunque también cuento con competencias sólidas en el frontend con React y Astro.
 
-## Habilidades Técnicas
+## Mis Habilidades en Desarrollo de Software
 
-- **Backend:** Java/SpringBoot, Python/FastAPI. <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> <img src="https://spring.io/img/spring-2.svg" alt="spboot" width="65" height="35"/> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="py" width="20" height="20"/> <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="py" width="20" height="20"/> 
-- **Frontend:** React, HTML, CSS, JavaScript. <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="20" height="20"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="ht" width="20" height="20"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="20" height="20"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="js" width="20" height="20"/>
-- **DevOps:** Azure DevOps, Sonarqube, Jfrog Artifactory. <img src="https://logowik.com/content/uploads/images/azure-devops1866.jpg" alt="azdev" width="20" height="20"/> <img src="https://cdn.worldvectorlogo.com/logos/sonarqube-1.svg" alt="sq" width="20" height="20"/> <img src="https://speedmedia.jfrog.com/08612fe1-9391-4cf3-ac1a-6dd49c36b276/https://media.jfrog.com/wp-content/uploads/2017/12/20132914/artyfactory.png" alt="af" width="80" height="20"/>
-- **Cloud Computing & Services:** Azure (en aprendizaje). <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="az" width="20" height="20"/>
-- **Version & Repo Control:** GIT <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
-- **Inglés:** B2.
+### Lenguajes de Programación
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32">
+</p>
+
+### Frameworks y Herramientas
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" width="32" height="32">
+</p>
+
+### Cloud Computing & DevOps
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Docker" width="32" height="32">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="32" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" alt="Sonarqube" width="32" height="32" />    
+</p>
 
 ## Proyecto Destacado
 
