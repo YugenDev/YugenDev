@@ -47,6 +47,25 @@
 
 - Platzi: https://drive.google.com/drive/folders/1EhuFzg3yRfQxxScxxTOZd5nn4nWdrM-O?usp=sharing
 
+##
+<p align="center">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugenDev&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+
+<br/>  
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=YugenDev&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+
+<br/>  
+
 ## Objetivos Actuales
 
 Actualmente estoy enfocado en mejorar mis habilidades en Python y Go para el desarrollo backend, también estoy expandiendo mi conocimiento en arquitectura DevOps.
