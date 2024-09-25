@@ -46,6 +46,7 @@
 ## Certificados
 
 - [Platzi](https://drive.google.com/drive/folders/1EhuFzg3yRfQxxScxxTOZd5nn4nWdrM-O?usp=drive_link)
+- [Datacamp](https://drive.google.com/drive/folders/1baeUKvi6g2li-FQGhPSHVm-9lf5VnI7E?usp=drive_link)
 
 ##
 
