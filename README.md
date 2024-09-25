@@ -45,7 +45,7 @@
 
 ## Certificados
 
-- Platzi: https://drive.google.com/drive/folders/1EhuFzg3yRfQxxScxxTOZd5nn4nWdrM-O?usp=sharing
+- [Platzi](https://drive.google.com/drive/folders/1EhuFzg3yRfQxxScxxTOZd5nn4nWdrM-O?usp=drive_link)
 
 ##
 
