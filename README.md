@@ -30,10 +30,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" alt="Sonarqube" width="62" height="62" />    
 </p>
 
-## Proyecto Destacado
+## Proyectos Destacados
 
-## Black Mesa Bank: Plataforma bancaria con un chatbot impulsado por IA.
-- **https://github.com/Pablo-Berrio/black_mesa**
+### [Black Mesa Bank](https://github.com/Pablo-Berrio/black_mesa): Plataforma bancaria con un chatbot impulsado por IA.
 
 ## Experiencia Laboral
 
