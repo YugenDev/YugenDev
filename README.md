@@ -30,10 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" alt="Sonarqube" width="62" height="62" />    
 </p>
 
-## Proyectos Destacados
-
-### [Black Mesa Bank](https://github.com/Pablo-Berrio/black_mesa): Plataforma bancaria con un chatbot impulsado por IA.
-
 ## Experiencia Laboral
 
 - **Desarrollador Aprendiz / Aprendiz DevOps | SURA/SURAMERICANA | 1 AÑO (DEC 16 2023 - DEC 16 2024)**
@@ -61,6 +57,6 @@
 
 ## Objetivos Actuales
 
-Actualmente estoy enfocado en mejorar mis habilidades en Python y Go para el desarrollo backend, también estoy expandiendo mi conocimiento en arquitectura DevOps.
+Actualmente estoy enfocado en mejorar mis habilidades en Python y Go para el desarrollo backend, también estoy expandiendo mi conocimiento en arquitectura y DevOps.
 
-estoy abierto a colaboraciones y contribuciones en proyectos interesantes ;))
+Estoy abierto a colaboraciones y contribuciones en proyectos interesantes ;))
