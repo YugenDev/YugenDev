@@ -1,6 +1,6 @@
-# ¡Aló! 👋
+# ¡Aló, me llamo Juan! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy Juan, un desarrollador de software con enfoque en el backend, también cuento con competencias sólidas en el frontend con React y Astro.
+Soy altamente apasionado por la implementación de soluciones tecnológicas innovadoras que resuelven problemas complejos y optimizan procesos. A lo largo de mi vida, he desarrollado una profunda motivación por enfrentar desafíos técnicos que no solo me permiten crecer y aprender de manera continua, sino también fomentar un entorno de innovación constante.
 
 ## Mis Habilidades en Desarrollo de Software
 
@@ -31,6 +31,8 @@
 </p>
 
 ## Experiencia Laboral
+
+- **Backend Developer | Global Mobility Apex | Enero 2025 - Actualidad...
 
 - **Desarrollador Aprendiz / Aprendiz DevOps | SURA/SURAMERICANA | 1 AÑO (DEC 16 2023 - DEC 16 2024)**
 
