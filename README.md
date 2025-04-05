@@ -32,7 +32,7 @@ Soy altamente apasionado por la implementación de soluciones tecnológicas inno
 
 ## Experiencia Laboral
 
-- **Backend Developer | Global Mobility Apex | Enero 2025 - Actualidad...
+- **Backend Developer | Global Mobility Apex | Enero 2025 - Actualidad...**
 
 - **Desarrollador Aprendiz / Aprendiz DevOps | SURA/SURAMERICANA | 1 AÑO (DEC 16 2023 - DEC 16 2024)**
 
